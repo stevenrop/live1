@@ -1,0 +1,39 @@
+{
+  "spider": "https://gh-proxy.org/https://raw.githubusercontent.com/redscarful/xpg/refs/heads/main/spider.jar;md5;bfb998eda0e8130053dff264dbcea38f",
+  "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
+  "sites": [
+    {
+      "key": "gz",
+      "name": "🌖瓜子🌖",
+      "type": 3,
+      "api": "https://17370.kstore.space/TVBoxOSC/%E6%B4%92%E6%B0%B4%E8%BD%A6/py/gz.py"
+    },
+    {
+            "key": "🌖星云┃仅搜索🌖",
+            "name": "🌖星云┃仅搜索🌖",
+            "type": 3,
+            "api": "https://17370.kstore.space/%E5%97%B7%E5%91%9C%E6%9C%AC%E5%9C%B0%E5%8C%85/py/%E6%98%9F%E4%BA%914K%E5%BD%B1%E9%99%A2%28%E4%BB%85%E6%90%9C%E7%B4%A2%29.py"
+        }
+  ],
+  "lives": [
+    {
+            "name": "🌖🌖🌖独享速度快🌖🌖🌖",
+            "type": 0,
+            "ua": "okhttp",
+            "url": "https://17370.kstore.space/%E5%A4%AE%E5%8D%AB%E5%9C%B0%E6%96%B9%E4%B8%80%E9%94%85%E7%AB%AF.txt
+"
+        },
+    {
+            "name": "🌖🌖🌖1独享速度快1🌖🌖🌖",
+            "type": 0,
+            "ua": "okhttp",
+            "url": "https://17370.kstore.space/zbqq.txt
+"
+        }
+  ],
+  "ads": [
+    "mozai.4gtv.tv",
+    "pv.vipwm.cc",
+    "static-mozai.4gtv.tv"
+  ]
+}
