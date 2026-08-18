@@ -1,0 +1,307 @@
+
+
+香港(北美),#genre#
+AOD(双轨道),http://cdn3.123.rr.kg/stream/live/aod/
+明珠剧集台(北美),https://amg01868-amg01868c5-tvbanywhere-us-4493.playouts.now.amagi.tv/playlist/amg01868-tvbusa-tvbpearldrama-tvbanywhereus/playlist.m3u8
+TVB明珠劇集台(TVB Pearl Drama),https://amg01868-tvb-amg01868c1-tvbanywhere-us-1782.playouts.now.amagi.tv/playlist/amg01868-tvbusa-tvbpearldrama-tvbanywhereus/playlist.m3u8
+新時代 温哥華FAIRCHILD 2,http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:02:8B:80&stream=1495597&extension=ts&play_token=ysDCYDOqyw
+新時代 多倫多FAIRCHILD,http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:02:8B:80&stream=1495596&extension=ts&play_token=iE8hCcqt3W
+华丽翡翠台(新加坡),https://cdn3.123.rr.kg/stream/live/jade/
+翡翠剧集台(北美),https://amg01868-amg01868c5-tvbanywhere-us-4493.playouts.now.amagi.tv/playlist/amg01868-tvbusa-tvbdrama-tvbanywhereus/playlist.m3u8
+TVB翡翠一台(TVB1),https://amg01868-amg01868c4-tvbanywhere-us-4492.playouts.now.amagi.tv/playlist/amg01868-tvbusa-tvb1-tvbanywhereus/playlist.m3u8
+TVB翡翠娛樂台(TVBe),https://amg01868-amg01868c7-tvbanywhere-us-4495.playouts.now.amagi.tv/playlist/amg01868-tvbusa-tvbe-tvbanywhereus/playlist.m3u8
+TVB無綫新聞台(TVB News),https://amg01868-amg01868c2-tvbanywhere-us-4490.playouts.now.amagi.tv/playlist/amg01868-tvbusa-tvbnews-tvbanywhereus/playlist.m3u8
+TVB翡翠綜合台(TVBJ1),https://amg01868-amg01868c6-tvbanywhere-us-4494.playouts.now.amagi.tv/playlist/amg01868-tvbusa-tvbj1-tvbanywhereus/playlist.m3u8
+TVB Vietnam(越南台),https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist/amg01868-tvbusa-tvbvietnam-tvbanywhereus/playlist.m3u8
+China Travel,https://amg01314-amg01314c7-distrotv-us-10219.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnchinatravel
+
+
+港台/電影,#genre#
+STAR MOVIES SELECT HD, http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:02:8B:80&stream=373320&extension=ts&play_token=OSfFJwJsBq
+CELESTIAL MOVIES HD,https://2connect.xyz/live/5DD5FAA5705C/0F1A36AC576D476/1052448.m3u8
+亮剑,http://173.208.234.146/live/lbliangjian.m3u8
+中天新闻,http://173.208.234.146/live/ctinews.m3u8
+Hoy TV,https://cdn.qd.je/163189/hoy
+TVB无線新闻,http://198.98.55.60:6666/c/index.m3u8
+凤凰中文,http://xtvantsc.xyz/fhx.php?id=2
+凤凰资讯,http://xtvantsc.xyz/fhx.php?id=1
+凤凰香港,http://xtvantsc.xyz/fhx.php?id=3
+
+
+PPV-WWE-UFC,#genre#
+NFL Network,http://89.187.179.148:826/TammyMccready/eGj6lFxVyG/1402
+USA Network,http://89.187.179.148:826/TammyMccready/eGj6lFxVyG/1449
+TBS,https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
+TNT,https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
+USA NETWORK,http://panel.pro2box.cc/live/456876/bpMnYZA/328966.m3u8
+USA Network (East),http://cord-cutter.net:8080/live/aliciabutcher@gmail.com/CmKRbFkf2r/10252.m3u8
+S| TBS HD,http://line.godofiptv.com:80/play/live.php?mac=A0:BB:3E:02:F1:78&stream=45475&extension=ts&play_token=kb8Uf4mMZP
+GO| TBS,http://line.godofiptv.com:80/play/live.php?mac=A0:BB:3E:02:F1:78&stream=1930922&extension=ts&play_token=woSoOFRrOQ
+US: TBS HD,http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=325803&extension=ts&play_token=Ufyj0HHOrc
+|US| TBS HD (EAST),http://diasporaprimetv.ottct.pro/live/bujar-berisha45/RNVM6OOAOA/291164.ts
+┃SPORTS┃ SONY TEN SPORTS 3 HD,http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:02:8B:80&stream=373198&extension=ts&play_token=gVDoaWQZ3Y
+SPORTS: TEN 1 HD,http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=441094&extension=ts&play_token=hm5A1VEeQy
+SPORTS: TEN 2 HD,http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=441092&extension=ts&play_token=DkM0n1ETKK
+SPORTS: TEN 3 HD,http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=441090&extension=ts&play_token=1BTVp35vNj
+WWE: RAW,http://nrvmobil.com:2095/live/kadir8502/8YmCgLty8yeh/514062.m3u8
+WWE SmackDown 1,http://nrvmobil.com:2095/live/kadir8502/8YmCgLty8yeh/514056.m3u8
+WWE: Friday Night SMACKDOWN,http://nrvmobil.com:2095/live/kadir8502/8YmCgLty8yeh/514053.m3u8
+WWE: GLOBAL,http://nrvmobil.com:2095/live/kadir8502/8YmCgLty8yeh/514065.m3u8
+WWE: NEXT,http://nrvmobil.com:2095/live/kadir8502/8YmCgLty8yeh/514059.m3u8
+PPV WWE,http://wickediptv.xyz/live/Randall123/Randall321/55025.m3u8&extension=ts&play_token=BUBPbQKtOz
+┃EN┃ PPV 1 UFC EVENT,http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:02:8B:80&stream=181569&extension=ts&play_token=prTNhQ8RkA
+PPV UFC 1,http://wickediptv.xyz/live/Randall123/Randall321/53599.m3u8
+PPV UFC 2,http://wickediptv.xyz/live/Randall123/Randall321/53311.m3u8
+PPV EVENT 06 Inka MMA 59,http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1855353&extension=ts&play_token=KCJEonmj0Z
+UK NETFLIX PPV,http://onaexpress.xyz:80/play/live.php?mac=00:1A:79:55:4F:B7&stream=1170905&extension=ts&play_token=x3qoyWhPl9
+NF NETFLIX 01 EVENTS ONLY,http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1831617&extension=ts&play_token=y0Ad2XRrAx
+NF NETFLIX 02 USA EVENTS ONLY,http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1831616&extension=ts&play_token=tVknvSA8oz
+NF NETFLIX 03 INTERNATIONAL EVENTS ONLY,http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1831615&extension=ts&play_token=pLqAtfES1Q
+US: GLORY Kickboxing HD,http://4connect.link/live/DmKCaZSOa6/0MYJQJ6xsu/17338.ts
+
+
+亚洲體育,#genre#
+|HK| Now Sports PL 6 FHD (EVENTS ONLY),http://diasporaprimetv.ottct.pro/live/bujar-berisha45/RNVM6OOAOA/439050.ts
+|HK| Now Sports 7 HD (EVENTS ONLY),http://diasporaprimetv.ottct.pro/live/bujar-berisha45/RNVM6OOAOA/439043.ts
+|HK| Now Sports PL 1 FHD,http://diasporaprimetv.ottct.pro/live/bujar-berisha45/RNVM6OOAOA/439055.ts
+|HK| Now Sports 1 HD (EVENTS ONLY),http://diasporaprimetv.ottct.pro/live/bujar-berisha45/RNVM6OOAOA/439049.ts
+|HK| Now Sports 2 HD (EVENTS ONLY),http://diasporaprimetv.ottct.pro/live/bujar-berisha45/RNVM6OOAOA/439048.ts
+|HK| Now Sports 3 HD (EVENTS ONLY),http://diasporaprimetv.ottct.pro/live/bujar-berisha45/RNVM6OOAOA/439047.ts
+|US| WWE NETWORK HD,http://diasporaprimetv.ottct.pro/live/bujar-berisha45/RNVM6OOAOA/291304.ts
+cctv5,http://173.208.212.130:8181/1080p/cctv5.m3u8
+CCTV5 HD,http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
+CCTV5,http://38.75.136.137:98/gslb/dsdqbv/cctv5hd.m3u8?auth=test20251009
+SG| HUB SPORTS 1 HD,http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:1C:05:41&stream=941573&extension=ts&play_token=Vy8A1E8mQ9
+SG| HUB SPORTS 2 HD,http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:1C:05:41&stream=941572&extension=ts&play_token=8oQ9H24x3z
+SG| BEIN SPORTS HD,http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:1C:05:41&stream=941569&extension=ts&play_token=WXGRmW6A38
+SG| BEIN SPORTS 2 HD,http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:1C:05:41&stream=941568&extension=ts&play_token=XJueRRiyTT
+SG| BEIN SPORTS 3 HD,http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:1C:05:41&stream=941567&extension=ts&play_token=gM1lyZpbKq
+Japan 1080p,https://tsb-mega.i9.ee/stream/nhkg_hevc_1080p
+SPORTS: HUB SPORTS 1 HD,http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=444699&extension=ts&play_token=MWyEfVTmzq
+SPORTS: HUB SPORTS 2 HD,http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=444698&extension=ts&play_token=vlY0W1gXat
+SPORTS: HUB SPORTS 3 HD,http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=444697&extension=ts&play_token=JaI7HgXtxT
+
+
+MLB,#genre#
+MLB 01 | Guardians x Rays,http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=762779&extension=ts&play_token=7vixVfhGzv
+MLB 02 | D-backs x Nationals,http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=762778&extension=ts&play_token=nelCskyGL2
+MLB 03 | Cubs x Pirates,http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=762777&extension=ts&play_token=IqtHuDxb8D
+MLB 04 | Blue Jays x Red Sox,http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=762776&extension=ts&play_token=DgKu0MMgpJ
+MLB 05 | Braves x Orioles,http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=762775&extension=ts&play_token=cRN46Kw9Uh
+MLB 06 | Royals x Tigers,http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=762774&extension=ts&play_token=qxPn9u2PEx
+MLB 07 | Dodgers x Mets,http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=762773&extension=ts&play_token=q3iN7dFOZe
+MLB 08 | Padres x Marlins,http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=762772&extension=ts&play_token=zdqDvpUtFi
+MLB 09 | Athletics x Twins,http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=762771&extension=ts&play_token=SUq1QkwpOC
+MLB 10 | Astros x White Sox,http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=762770&extension=ts&play_token=Cu2Uuotte8
+MLB 11 | Rockies x Brewers,http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=762769&extension=ts&play_token=GDOQhof2cC
+MLB 12 | Reds x Cardinals,http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=762768&extension=ts&play_token=Nxo5wGuFGD
+MLB 13 | Mariners x Rangers,http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=762767&extension=ts&play_token=SMqdVLMuzT
+MLB 14 | Angels x Giants,http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=762766&extension=ts&play_token=4j1aAPnyln
+MLB 15 | Yankees x Phillies,http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=762765&extension=ts&play_token=ORFGlIAgAR
+MLB 16 | Tigers x Cubs,http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=762764&extension=ts&play_token=iOraBn3ccH
+MLB 17 | Marlins x Astros,http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=762763&extension=ts&play_token=XeUsPiCQKa
+
+
+USA/UK 体育,#genre#
+ESPN3,http://190.83.2.178:8090/ESPN3/index.m3u8
+ESPN,http://212.5.144.156:8080/espn/index.m3u8
+US | ESPN,http://panel.pro2box.cc/live/456876/bpMnYZA/328819.m3u8
+US | TNT,http://panel.pro2box.cc/live/456876/bpMnYZA/328970.m3u8
+US | FOX HD,http://panel.pro2box.cc/live/456876/bpMnYZA/328999.m3u8
+欧体4K,http://fomo.re/oiAPMTyBHC7I7BK7/gs42ehsohqJ30C7m/32818
+WWE Superstar Central,https://dpv6ceilvhyrw.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7ufe851j0vqbg/cb057fb1-5af8-4aca-9641-86ed99826bac/3.m3u8
+UFC,https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/194a140c-0cf5-443e-b747-08bf621d75a8/0.m3u8
+┃USA┃ MAVTV HD,http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:5A:84&stream=855495&extension=ts&play_token=8dKUy0wW2O
+MotoGP Channel,https://d1kqz1q7knpsue.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-c6imqvc1ng6dh/865532b0-a6fe-4943-9c23-193c5c3788ce/4.m3u8
+┃MOTOGP┃ MOTOGP IPFAMB,http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:5A:84&stream=1091513&extension=ts&play_token=jg3RAiZlo5
+TENNIS,http://23.237.104.106:8080/USA_TENNIS/index.m3u8
+NFL_NETWORK,http://23.237.104.106:8080/USA_NFL_NETWORK/index.m3u8
+NBA,http://23.237.104.106:8080/USA_NBA/index.m3u8
+ESPNU,http://23.237.104.106:8080/USA_ESPNU/index.m3u8
+MSG,http://23.237.104.106:8080/USA_MSG/index.m3u8
+┃USA┃ ESPN HD,http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:5A:84&stream=858554&extension=ts&play_token=biCTIjUbn8
+YES Network,http://23.237.104.106:8080/USA_YES_NETWORK/index.m3u8
+FOX Sports,https://dbrb49pjoymg4.cloudfront.net/10001/99991196/hls/xumo.m3u8?ads.xumo_channelId=99991196&ads._fw_ifa_type=&ads._fw_did=774be1b6-a194-4280-903c-052c39bd0317&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=FoxSports&ads.csid=xumo_web_FoxSports_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=142&ads.xumo_contentName=FoxSports&ads.xumo_providerId=142&ads.xumo_providerName=FoxSports&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99991196&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
+CBS Sports HQ,https://dai.google.com/linear/hls/event/9Lq0ERvoSR-z9AwvFS-xYA/master.m3u8?imafw_csid=;imafwfw_h_referer=com.xumo.app&imafwfw_did=dpid:&imafwfw_is_lat=&imafwfw_vcid2=&imafw__fw_app_bundle=web.xumo.com&imafw_is_lat=
+NFL Channel,https://c300.play.lura.app/play/v1/live/ZHx8AbT0xVvm1el0epd7vw/master.m3u8?ts=1668459044045&app=Mp8DA1vKVAoO4yHJ0QFZ3w&exp=2299179044&auth=8HJTwR6prnzFjGE2Ki_8pfvwxMRvWtSwRm3R54TN3_w&PlatformChild=&usprivacy=&coppa=0&autoplay=auto&videomute=0&encoder=DC1-XUMO&fwDid=0efbe435-1379-4879-94e7-e42bdb78ca0b&tmsid=121705&palnonce=&rdid=0efbe435-1379-4879-94e7-e42bdb78ca0b&islat=0&atts=&attmas=&idfv=&screenw=1920&screenh=1080&title=
+Sky Sport MotoGP IT,http://innovationtv.eu/8sxjqr05j3/8nt9rilu1f/1917706
+Tr: TRT SPOR FHD,http://tvappapk@tr.zengi34.xyz:8080/live/haciabi@hjks/D2LVdCPT2Z/29.ts
+TSN 4,http://vip058esmertv.live:8080/play/live.php?mac=00:1A:79:77:07:30&stream=629356&extension=ts&play_token=beth5ouDvT
+DAZN_2,http://23.237.104.106:8080/DAZN_2/index.m3u8
+DAZN_3,http://23.237.104.106:8080/DAZN_3/index.m3u8
+┃DE┃ ZDF 4K,http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:5A:84&stream=15348&extension=ts&play_token=VLDeOefqm5
+WC test,http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/6275/index.m3u8
+UK:Sky Sports F1 FHD 50fps,http://rocketfx.uk:8080/live/henry/henry/508349.m3u8
+UK: TNT Sport 1 FHD HEVC,http://rocketfx.uk:8080/live/henry/henry/512369.m3u8
+UK: TNT Sport 1 FHD,http://rocketfx.uk:8080/live/henry/henry/512371.m3u8
+UK: Animal Planet,http://rocketfx.uk:8080/live/henry/henry/102892.m3u8
+DE: SKY SPORT F1 FHD,http://nrvmobil.com:2095/live/kadir8502/8YmCgLty8yeh/117147.m3u8
+beIN SPORTS XTRA,https://bein-xtra-xumo.amagi.tv/hls/amagi_hls_data_beinAAAAA-bein-xtra-xumoA/CDN/master.m3u8?is_lat=0&us_privacy=
+The NBA Channel,https://dbrb49pjoymg4.cloudfront.net/10001/99951383/hls/playlist.m3u8?ads.xumo_channelId=99951383&ads._fw_ifa_type=&ads._fw_did=d2c1df69-1e70-4b9a-a880-3b8a2a928cc4&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=NBAFASTChannel&ads.csid=xumo_web_NBAFASTChannel_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=4185&ads.xumo_contentName=NBAFASTChannel&ads.xumo_providerId=4185&ads.xumo_providerName=NBAFASTChannel&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99951383&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
+ESPN 8 The Ocho,https://amg00497-amg00497c24-amgplt0023.playout.now3.amagi.tv/playlist/amg00497-amg00497c24-amgplt0023/playlist.m3u8
+UFC,https://linear-893.frequency.stream/dist/lg-us/893/hls/master/playlist.m3u8
+F1 Sky Sports 4K (mpv),http://iptv.watchhd.to:5050/YannB/7krzj7gqFiel/475271
+F1: SKY Sports F1 [uk],http://tvappapk@tr.zengi34.xyz:8080/live/haciabi@hjks/D2LVdCPT2Z/357529.ts
+F1: SKY Sport F1 HD [de],http://tvappapk@tr.zengi34.xyz:8080/live/haciabi@hjks/D2LVdCPT2Z/357524.ts
+┃SPORTS┃ SONY TEN SPORTS 1 HD,http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:5A:84&stream=373200&extension=ts&play_token=HFoczVIGLy
+┃SPORTS┃ SONY TEN SPORTS 2 HD,http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:5A:84&stream=373199&extension=ts&play_token=mwLBi7lJDl
+┃SPORTS┃ SONY TEN SPORTS 3 HD,http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:5A:84&stream=373198&extension=ts&play_token=1uWDrCgA8l
+┃SPORTS┃ SONY TEN SPORTS 5 HD,http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:5A:84&stream=373196&extension=ts&play_token=gbkLf33RQA
+ENGLISH┃ STAR MOVIES HD,http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:5A:84&stream=373304&extension=ts&play_token=J4fab1Pt9u
+┃NL┃ ESPN 8K UHD,http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:5A:84&stream=92512&extension=ts&play_token=JFfcTaniSi
+┃NL┃ ESPN 1 8K,http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:5A:84&stream=237593&extension=ts&play_token=zgzbuIT6Cl
+Sky Sports F1 4K UK,http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:5A:84&stream=1312007&extension=ts&play_token=jeZ7aAvrpv
+Sky Sports Main Event 4K UK,http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:5A:84&stream=1312008&extension=ts&play_token=EA5YSwICJu
+
+
+
+
+US/UK General,#genre#
+┃ENGLISH┃ ALJAZEERA HD,http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:5A:84&stream=373307&extension=ts&play_token=cpHnbUBSaI
+4K| CNN UHD 4K,http://line.nexstreamvx.sbs/live/S5EvCA0wfEe1/V570bg5sZs/1470653.m3u8
+ACCN,http://23.237.104.106:8080/USA_ACCN/index.m3u8
+BOUNCE,http://23.237.104.106:8080/USA_BOUNCE/index.m3u8
+5STARMAX,http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
+CINEMAX,http://23.237.104.106:8080/USA_CINEMAX/index.m3u8
+COMEDY_CENTRAL,http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
+COOKING,http://23.237.104.106:8080/USA_COOKING/index.m3u8
+DESTINATION_AMERICA,http://23.237.104.106:8080/USA_DESTINATION_AMERICA/index.m3u8
+DISCOVERY,http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
+E,http://23.237.104.106:8080/USA_E/index.m3u8
+ANIMAL_PLANET,http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8
+NAT_GEO,http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8
+FOOD_NETWORK,http://23.237.104.106:8080/USA_FOOD_NETWORK/index.m3u8
+HBO_ZONE,http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
+MOREMAX,http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
+PARAMOUNT_NETWORK,http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8
+STARZ,http://23.237.104.106:8080/USA_STARZ/index.m3u8
+STARZ_CINEMA,http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8
+STARZ_COMEDY,http://23.237.104.106:8080/USA_STARZ_COMEDY/index.m3u8
+SYFY,http://23.237.104.106:8080/USA_SYFY/index.m3u8
+VICETV,http://23.237.104.106:8080/USA_VICETV/index.m3u8
+WGN,http://23.237.104.106:8080/USA_WGN/index.m3u8
+FUSE,http://23.237.104.106:8080/USA_FUSE/index.m3u8
+FX,http://23.237.104.106:8080/USA_FX/index.m3u8
+FXX,http://23.237.104.106:8080/USA_FXX/index.m3u8
+LMN,http://23.237.104.106:8080/USA_LMN/index.m3u8
+BBC_AMERICA,http://23.237.104.106:8080/USA_BBC_AMERICA/index.m3u8
+BBC_NEWS,http://23.237.104.106:8080/USA_BBC_NEWS/index.m3u8
+BOOMERANG,http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
+NICKELODEON,http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
+CARTOON_NETWORK,http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
+WE_TV,http://23.237.104.106:8080/USA_WE_TV/index.m3u8
+MTV,http://23.237.104.106:8080/USA_MTV/index.m3u8
+MTV_LIVE,http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8
+VH1,http://23.237.104.106:8080/USA_VH1/index.m3u8
+TRUTV,http://23.237.104.106:8080/USA_TRUTV/index.m3u8
+WildEarth,https://wildearth-lg-us.amagi.tv/hls/amagi_hls_data_wildearth-wildearth-lg-us/CDN/master.m3u8
+Love Nature,https://bamus-lovenature-lg.amagi.tv/hls/amagi_hls_data_bamusaAAA-bamus-lovenature-lg/CDN/master.m3u8
+PBS Nature,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01597-wnetnewyorkpubl-pbsnature-lgus/playlist.m3u8
+Xumo Free Nature & Wildlife TV,https://live-content.xumo.com/3878/content/XM0URJK0VHF1WR/27308798/master.m3u8
+MovieSphere by Lionsgate,https://dbrb49pjoymg4.cloudfront.net/10001/99951251/hls/playlist.m3u8?ads.xumo_channelId=99951251&ads._fw_ifa_type=&ads._fw_did=10dcfd99-ad05-49bf-885a-bcd6a8fca7e3&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=LionsgateMovieSphere&ads.csid=xumo_web_LionsgateMovieSphere_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=3955&ads.xumo_contentName=LionsgateMovieSphere&ads.xumo_providerId=3955&ads.xumo_providerName=LionsgateMovieSphere&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99951251&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
+Million Dollar Listing Vault,https://d4whmvwm0rdvi.cloudfront.net/10007/99951237/hls/master.m3u8?ads.xumo_channelId=99951237&ads.asnw=169843&ads.afid=347195519&ads.sfid=16772620&ads.csid=xumo_web_NBCUMillionDollarListing_ssai_cro&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads._fw_did=9999095f-5911-4f1e-8344-1653e76c0d61&ads._fw_vcid2=512116:9999095f-5911-4f1e-8344-1653e76c0d61&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads._fw_content_category=&ads._fw_content_genre=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads._fw_deviceType=3-Connected_TV&ads.appVersion=1.0.0&ads.appName=XumoPlay&ads.xumo_contentId=2780&ads.xumo_contentName=NBCUMillionDollarListing&ads.xumo_providerId=2780&ads.xumo_providerName=NBCUMillionDollarListing&ads.channelId=99951237&ads._fw_ifa_type=
+movie sphere,https://samsunguk-moviesphereuk-samsung-uk-s7xaa.amagi.tv/ts-eu-w1-n2/playlist/samsunguk-moviesphereuk-samsung-uk/playlist.m3u8
+BBC News,https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951298/hls/playlist.m3u8?ads.xumo_channelId=99951298&ads.xumo_streamId=99951298&ads.channelId=99951298&ads.channelName=amcbbcnews_us&ads.csid=xumo_web_AMCBBCNews_ssai&ads._fw_coppa=0&ads.xumo_contentId=4023&ads.xumo_contentName=AMCBBCNews&ads.xumo_providerId=4023&ads.xumo_providerName=AMCBBCNews&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_did=:6f2636b2-0021-4b7a-9e33-d7a82fac42c1&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads._fw_deviceType=3-Connected_TV&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.xumo_platform=web&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
+CNN Headlines,https://dbrb49pjoymg4.cloudfront.net/10001/99951386/hls/playlist.m3u8?ads.xumo_channelId=99951386&ads._fw_ifa_type=&ads._fw_did=cdd01e28-8a9c-4cca-b30d-c6b88449332f&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=WBDCNNHeadlines&ads.csid=xumo_web_WBDCNNHeadlines_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=4193&ads.xumo_contentName=WBDCNNHeadlines&ads.xumo_providerId=4193&ads.xumo_providerName=WBDCNNHeadlines&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99951386&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
+CBS News Bay Area,https://dai.google.com/linear/hls/event/laLJwH1nS2KQAUQTF8z1Cg/master.m3u8?imafw_csid=;imafwfw_h_referer=com.xumo.app&imafwfw_did=dpid:&imafwfw_is_lat=&imafwfw_vcid2=&imafw__fw_app_bundle=web.xumo.com&imafw_is_lat=
+CBS News New York,https://dai.google.com/linear/hls/event/jeTDC610T-OSPdiWhcl0Pg/master.m3u8?imafw_csid=;imafwfw_h_referer=com.xumo.app&imafwfw_did=dpid:&imafwfw_is_lat=&imafwfw_vcid2=&imafw__fw_app_bundle=web.xumo.com&imafw_is_lat=
+CBS News Los Angeles,https://dai.google.com/linear/hls/event/K_2aA7OVRTacJJli1oSi8w/master.m3u8?imafw_csid=;imafwfw_h_referer=com.xumo.app&imafwfw_did=dpid:&imafwfw_is_lat=&imafwfw_vcid2=&imafw__fw_app_bundle=web.xumo.com&imafw_is_lat=
+NBC Bay Area News,https://d4whmvwm0rdvi.cloudfront.net/10007/99951162/hls/master.m3u8?ads.xumo_channelId=99951162&ads.asnw=169843&ads.afid=348208856&ads.sfid=17135549&ads.csid=xumo_web_NBCNBA_ssai_cro&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads._fw_did=462d0525-04c2-4add-9175-7c6d97e4e2b3&ads._fw_vcid2=512116:462d0525-04c2-4add-9175-7c6d97e4e2b3&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads._fw_content_category=&ads._fw_content_genre=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads._fw_deviceType=3-Connected_TV&ads.appVersion=1.0.0&ads.appName=xumo&ads.xumo_contentId=3822&ads.xumo_contentName=NBCNBA&ads.xumo_providerId=3822&ads.xumo_providerName=NBCNBA&ads.channelId=99951162&ads._fw_ifa_type=
+NBC 4 Los Angeles News,https://d4whmvwm0rdvi.cloudfront.net/10007/99951164/hls/master.m3u8?ads.xumo_channelId=99951164&ads.asnw=169843&ads.afid=314801499&ads.sfid=17135549&ads.csid=xumo_web_NBCNLA_ssai_cro&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads._fw_did=5d904b8c-d3f3-43f8-acde-b5bfa373d134&ads._fw_vcid2=512116:5d904b8c-d3f3-43f8-acde-b5bfa373d134&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads._fw_content_category=&ads._fw_content_genre=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads._fw_deviceType=3-Connected_TV&ads.appVersion=1.0.0&ads.appName=xumoplay&ads.xumo_contentId=3817&ads.xumo_contentName=NBCNLA&ads.xumo_providerId=3817&ads.xumo_providerName=NBCNLA&ads.channelId=99951164&ads._fw_ifa_type=
+FOX LOCAL San Francisco,https://dbrb49pjoymg4.cloudfront.net/10001/99951422/hls/playlist.m3u8?ads.xumo_channelId=99951422&ads._fw_ifa_type=&ads._fw_did=8acc7f36-e445-4c72-8d7d-05bbae645e33&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=FoxSanFrancisco&ads.csid=xumo_web_FoxSanFrancisco_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=4157&ads.xumo_contentName=FoxSanFrancisco&ads.xumo_providerId=4157&ads.xumo_providerName=FoxSanFrancisco&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99951422&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
+US: CBS 7 Bend Oregon,http://tv.cloudcdn.me:80/live.ts?channelId=132716&uid=8112&deviceMac=00:1A:79:0A:3B:2D
+US: Fox Buffalo New York,http://tv.cloudcdn.me:80/live.ts?channelId=132734&uid=8112&deviceMac=00:1A:79:0A:3B:2D
+US: Fox Spokane Washington,http://tv.cloudcdn.me:80/live.ts?channelId=132712&uid=8112&deviceMac=00:1A:79:0A:3B:2D
+US: Fox Cedar Rapids Iowa,http://tv.cloudcdn.me:80/live.ts?channelId=132722&uid=8112&deviceMac=00:1A:79:0A:3B:2D
+US: Fox Richmond Virginia,http://tv.cloudcdn.me:80/live.ts?channelId=132711&uid=8112&deviceMac=00:1A:79:0A:3B:2D
+NBC Portsmouth Virginia,http://tv.cloudcdn.me:80/live.ts?channelId=132710&uid=8112&deviceMac=00:1A:79:0A:3B:2D
+
+
+CN中国,#genre#
+CCTV1,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv1
+CCTV2,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv2
+CCTV3,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv3
+CCTV4,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv4
+CCTV5+,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv5p
+CCTV6,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv6
+CCTV7,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv7
+CCTV8,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv8
+CCTV9,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv9
+CCTV10,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv10
+CCTV11,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv11
+CCTV12,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv12
+CCTV13,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv13
+CCTV14,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv14
+CCTV15,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv15
+CCTV16,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv16
+CCTV17,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv17
+
+CCTV-1综合,http://173.208.212.130:8181/720p/cctv1.m3u8
+CCTV-2财经,http://173.208.212.130:8181/720p/cctv2.m3u8
+CCTV-3综艺,http://173.208.212.130:8181/720p/cctv3.m3u8
+CCTV-4中文国际,http://173.208.212.130:8181/720p/cctv4.m3u8
+CCTV-5体育,http://173.208.212.130:8181/720p/cctv5.m3u8
+CCTV-6电影,http://173.208.212.130:8181/720p/cctv6.m3u8
+CCTV-7国防军事,http://173.208.212.130:8181/720p/cctv7.m3u8
+CCTV-8电视剧,http://173.208.212.130:8181/720p/cctv8.m3u8
+CCTV-9纪录,http://173.208.212.130:8181/720p/cctv9.m3u8
+CCTV-10科教,http://173.208.212.130:8181/720p/cctv10.m3u8
+CCTV-11戏曲,http://173.208.212.130:8181/720p/cctv11.m3u8
+CCTV-12社会与法,http://173.208.212.130:8181/720p/cctv12.m3u8
+CCTV-13新闻,http://173.208.212.130:8181/720p/cctv13.m3u8
+CCTV-14少儿,http://173.208.212.130:8181/720p/cctv14.m3u8
+CCTV-15音乐,http://173.208.212.130:8181/720p/cctv15.m3u8
+CCTV-16奥林匹克,http://173.208.212.130:8181/720p/cctv16.m3u8
+CCTV-17农业农村,http://173.208.212.130:8181/720p/cctv17.m3u8
+CCTV-5+HD,http://173.208.212.130:8181/720p/cctv5p.m3u8
+CCTV-4K超高清,http://173.208.212.130:8181/720p/cctv4k.m3u8
+CCTV-8K超高清,http://173.208.212.130:8181/720p/cctv8k.m3u8
+重温经典,http://173.208.212.130:8181/720p/cwjd.m3u8
+CCTV-第一剧场,http://173.208.212.130:8181/720p/dyjc.m3u8
+CCTV-风云剧场,http://173.208.212.130:8181/720p/fyjc.m3u8
+CCTV-怀旧剧场,http://173.208.212.130:8181/720p/hjjc.m3u8
+CCTV-兵器科技,http://173.208.212.130:8181/720p/gfjs.m3u8
+CCTV-女时尚,http://173.208.212.130:8181/720p/nxss.m3u8
+CCTV-世界地理,http://173.208.212.130:8181/720p/sjdl.m3u8
+CCTV-卫生健康,http://173.208.212.130:8181/720p/wsjk.m3u8
+CCTV-央视文化精品,http://173.208.212.130:8181/720p/ysjp.m3u8
+CCTV-风云音乐,http://173.208.212.130:8181/720p/fyyy.m3u8
+CCTV-央视台球,http://173.208.212.130:8181/720p/ystq.m3u8
+CCTV-风云足球,http://173.208.212.130:8181/720p/fyzq.m3u8
+CCTV-高尔夫网球,http://173.208.212.130:8181/720p/gefwq.m3u8
+湖南卫视,http://173.208.212.130:8181/720p/hnws.m3u8
+河北卫视,http://173.208.212.130:8181/720p/hews.m3u8
+山东卫视,http://173.208.212.130:8181/720p/sdws.m3u8
+天津卫视,http://173.208.212.130:8181/720p/tjws.m3u8
+安徽卫视,http://173.208.212.130:8181/720p/ahws.m3u8
+北京卫视,http://173.208.212.130:8181/720p/bjws.m3u8
+东方卫视,http://173.208.212.130:8181/720p/dfws.m3u8
+广东卫视,http://173.208.212.130:8181/720p/gdws.m3u8
+河南卫视,http://173.208.212.130:8181/720p/haws.m3u8
+江苏卫视,http://173.208.212.130:8181/720p/jsws.m3u8
+深圳卫视,http://173.208.212.130:8181/720p/szws.m3u8
+浙江卫视,http://173.208.212.130:8181/720p/zjws.m3u8
+
+CCTV-1综合,http://173.208.212.130:8181/1080p/cctv1.m3u8
+CCTV-2财经,http://173.208.212.130:8181/1080p/cctv2.m3u8
+CCTV-3综艺,http://173.208.212.130:8181/1080p/cctv3.m3u8
+CCTV-4中文国际,http://173.208.212.130:8181/1080p/cctv4.m3u8
+CCTV-5体育,http://173.208.212.130:8181/1080p/cctv5.m3u8
+CCTV-6电影,http://173.208.212.130:8181/1080p/cctv6.m3u8
+CCTV-7国防军事,http://173.208.212.130:8181/1080p/cctv7.m3u8
+CCTV-8电视剧,http://173.208.212.130:8181/1080p/cctv8.m3u8
+CCTV-9纪录,http://173.208.212.130:8181/1080p/cctv9.m3u8
+CCTV-10科教,http://173.208.212.130:8181/1080p/cctv10.m3u8
+CCTV-11戏曲,http://173.208.212.130:8181/1080p/cctv11.m3u8
+CCTV-12社会与法,http://173.208.212.130:8181/1080p/cctv12.m3u8
+CCTV-13新闻,http://173.208.212.130:8181/1080p/cctv13.m3u8
+CCTV-14少儿,http://173.208.212.130:8181/1080p/cctv14.m3u8
+CCTV-15音乐,http://173.208.212.130:8181/1080p/cctv15.m3u8
+CCTV-16奥林匹克,http://173.208.212.130:8181/1080p/cctv16.m3u8
+CCTV-17农业农村,http://173.208.212.130:8181/1080p/cctv17.m3u8
+CCTV-5+HD,http://173.208.212.130:8181/1080p/cctv5p.m3u8
+湖南卫视,http://173.208.212.130:8181/1080p/hnws.m3u8
+浙江卫视,http://173.208.212.130:8181/1080p/zjws.m3u8
+江苏卫视,http://173.208.212.130:8181/1080p/jsws.m3u8
+
+
