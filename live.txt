@@ -100,19 +100,14 @@ CCTV-卫生健康,http://107.150.60.122/live/wsjk.m3u8
 
 港台/電影,#genre#
 STAR MOVIES SELECT HD, http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:02:8B:80&stream=373320&extension=ts&play_token=OSfFJwJsBq
-CELESTIAL MOVIES HD,https://2connect.xyz/live/5DD5FAA5705C/0F1A36AC576D476/1052448.m3u8
 亮剑,http://173.208.234.146/live/lbliangjian.m3u8
 中天新闻,http://173.208.234.146/live/ctinews.m3u8
 Hoy TV,https://cdn.qd.je/163189/hoy
 TVB无線新闻,http://198.98.55.60:6666/c/index.m3u8
-凤凰中文,http://xtvantsc.xyz/fhx.php?id=2
-凤凰资讯,http://xtvantsc.xyz/fhx.php?id=1
-凤凰香港,http://xtvantsc.xyz/fhx.php?id=3
+
 
 
 PPV-WWE-UFC,#genre#
-NFL Network,http://89.187.179.148:826/TammyMccready/eGj6lFxVyG/1402
-USA Network,http://89.187.179.148:826/TammyMccready/eGj6lFxVyG/1449
 TBS,https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
 TNT,https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
 USA NETWORK,http://panel.pro2box.cc/live/456876/bpMnYZA/328966.m3u8
@@ -150,7 +145,6 @@ US: GLORY Kickboxing HD,http://4connect.link/live/DmKCaZSOa6/0MYJQJ6xsu/17338.ts
 |HK| Now Sports 2 HD (EVENTS ONLY),http://diasporaprimetv.ottct.pro/live/bujar-berisha45/RNVM6OOAOA/439048.ts
 |HK| Now Sports 3 HD (EVENTS ONLY),http://diasporaprimetv.ottct.pro/live/bujar-berisha45/RNVM6OOAOA/439047.ts
 |US| WWE NETWORK HD,http://diasporaprimetv.ottct.pro/live/bujar-berisha45/RNVM6OOAOA/291304.ts
-cctv5,http://173.208.212.130:8181/1080p/cctv5.m3u8
 CCTV5 HD,http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
 CCTV5,http://38.75.136.137:98/gslb/dsdqbv/cctv5hd.m3u8?auth=test20251009
 SG| HUB SPORTS 1 HD,http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:1C:05:41&stream=941573&extension=ts&play_token=Vy8A1E8mQ9
