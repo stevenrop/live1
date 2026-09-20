@@ -247,22 +247,14 @@ PPV-WWE-UFC,#genre#
 TBS,https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
 TNT,https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
 USA Network (East),http://cord-cutter.net:8080/live/aliciabutcher@gmail.com/CmKRbFkf2r/10252.m3u8
-┃SPORTS┃ SONY TEN SPORTS 3 HD,http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:02:8B:80&stream=373198&extension=ts&play_token=gVDoaWQZ3Y
-WWE: RAW,http://nrvmobil.com:2095/live/kadir8502/8YmCgLty8yeh/514062.m3u8
-WWE SmackDown 1,http://nrvmobil.com:2095/live/kadir8502/8YmCgLty8yeh/514056.m3u8
-WWE: Friday Night SMACKDOWN,http://nrvmobil.com:2095/live/kadir8502/8YmCgLty8yeh/514053.m3u8
-WWE: GLOBAL,http://nrvmobil.com:2095/live/kadir8502/8YmCgLty8yeh/514065.m3u8
-WWE: NEXT,http://nrvmobil.com:2095/live/kadir8502/8YmCgLty8yeh/514059.m3u8
-
 ┃EN┃ PPV 1 UFC EVENT,http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:02:8B:80&stream=181569&extension=ts&play_token=prTNhQ8RkA
-UK NETFLIX PPV,http://onaexpress.xyz:80/play/live.php?mac=00:1A:79:55:4F:B7&stream=1170905&extension=ts&play_token=x3qoyWhPl9
+
 
 亚洲體育,#genre#
 CCTV5 HD,http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
 CCTV5,http://38.75.136.137:98/gslb/dsdqbv/cctv5hd.m3u8?auth=test20251009
 
 USA/UK 体育,#genre#
-欧体4K,http://fomo.re/oiAPMTyBHC7I7BK7/gs42ehsohqJ30C7m/32818
 WWE Superstar Central,https://dpv6ceilvhyrw.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7ufe851j0vqbg/cb057fb1-5af8-4aca-9641-86ed99826bac/3.m3u8
 UFC,https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/194a140c-0cf5-443e-b747-08bf621d75a8/0.m3u8
 ┃USA┃ MAVTV HD,http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:5A:84&stream=855495&extension=ts&play_token=8dKUy0wW2O
