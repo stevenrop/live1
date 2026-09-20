@@ -251,10 +251,8 @@ KTSF26洛杉磯三藩市,http://38.64.72.148:80/hls/modn/list/4026/playlist.m3u8
 美國城市衛視,http://38.64.72.148:80/hls/modn/list/4028/chunklist1.m3u8
 美國城市衛視,http://38.64.72.148:80/hls/modn/list/4028/playlist.m3u8
 SW-SPORT体育 ,#genre#
-world fishing,https://d3b3ldcvgsu291.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-WFN/477.m3u8?ads.vf=RE1gCJub-L0
 UFC,https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
-N SPORT,https://cc-zv5hyc9jj47n5.akamaized.net/ogc/nsprt/nsprt_1080p.m3u8
-NFL_NETWORK,http://23.237.104.106:8080/USA_NFL_NE
+
 4k ,#genre#
 CCTV-4K超高清,http://192.187.124.34:81/live/cctv4ka.m3u8
 求索纪录,http://192.187.124.34:81/live/qsjl.m3u8
